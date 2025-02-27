@@ -36,7 +36,7 @@
         Minipis created by Pi in the context of her duty
     </p>
     <div class="grid">
-    {% for m in minipi %}
+    {% for m in minipi | reverse %}
     <div class="cell"><button class="button button-minipi" data-writtenBy="{{m.writtenBy}}" data-likes="{{m.likes}}" data-behaviors="{{m.behaviors}}">{{m.id}}</button></div>
     {% endfor %}
     </div>
