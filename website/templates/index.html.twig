@@ -1,28 +1,54 @@
 {% extends 'base.html.twig' %}
 
 {% block content %}
-<div class="modal" id="modal">
+<div class="modal" id="modal-minipi">
   <div class="modal-background"></div>
   <div class="modal-card">
     <header class="modal-card-head">
-        <p class="modal-card-title" id="modal-title"></p>
-        <button class="delete" aria-label="close" id="modal-close"></button>
+        <p class="modal-card-title" id="modal-minipi-title"></p>
+        <button class="delete" aria-label="close" id="modal-minipi-close"></button>
     </header>
     <section class="modal-card-body">
       <h3 class="subtitle">Likes</h3>
-        <div id="modal-likes">
+        <div id="modal-minipi-likes">
         </div>
         <h3 class="subtitle">Behaviors</h3>
-        <div id="modal-behaviors">
+        <div id="modal-minipi-behaviors">
         </div>
+    </section>
+  </div>
+</div>
+<div class="modal" id="modal-specials">
+  <div class="modal-background"></div>
+  <div class="modal-card">
+    <header class="modal-card-head">
+        <p class="modal-card-title" id="modal-specials-title"></p>
+        <button class="delete" aria-label="close" id="modal-specials-close"></button>
+    </header>
+    <section class="modal-card-body" id="modal-specials-body">
+        This minipi exists
     </section>
   </div>
 </div>
 <div class="container">
     <h2 class="subtitle">Minipis</h2>
+    <p>
+        Minipis created by Pi in the context of her duty
+    </p>
     <div class="grid">
     {% for m in minipi %}
     <div class="cell"><button class="button button-minipi" data-writtenBy="{{m.writtenBy}}" data-likes="{{m.likes}}" data-behaviors="{{m.behaviors}}">{{m.id}}</button></div>
+    {% endfor %}
+    </div>
+</div>
+<div class="container">
+    <h2 class="subtitle">Specials</h2>
+    <p>
+        Specials minipi created outside of normal circumstances
+    </p>
+    <div class="grid">
+    {% for key,value in specials %}
+    <div class="cell"><button class="button button-special" {% if not value%}disabled{% endif %}>{{key}}</button></div>
     {% endfor %}
     </div>
 </div>
