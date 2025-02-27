@@ -1,6 +1,23 @@
 {% extends 'base.html.twig' %}
 
 {% block content %}
+<div class="modal" id="modal">
+  <div class="modal-background"></div>
+  <div class="modal-card">
+    <header class="modal-card-head">
+        <p class="modal-card-title" id="modal-title"></p>
+        <button class="delete" aria-label="close" id="modal-close"></button>
+    </header>
+    <section class="modal-card-body">
+      <h3 class="subtitle">Likes</h3>
+        <div id="modal-likes">
+        </div>
+        <h3 class="subtitle">Behaviors</h3>
+        <div id="modal-behaviors">
+        </div>
+    </section>
+  </div>
+</div>
 <div class="container">
     <h2 class="subtitle">Minipis</h2>
     <div class="grid">
