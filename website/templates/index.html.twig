@@ -1,0 +1,12 @@
+{% extends 'base.html.twig' %}
+
+{% block content %}
+<div class="container">
+    <h2 class="subtitle">Minipis</h2>
+    <div class="grid">
+    {% for m in minipi %}
+    <div class="cell"><button class="button button-minipi" data-writtenBy="{{m.writtenBy}}" data-likes="{{m.likes}}" data-behaviors="{{m.behaviors}}">{{m.id}}</button></div>
+    {% endfor %}
+    </div>
+</div>
+{% endblock %}

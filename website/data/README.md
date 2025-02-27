@@ -1,0 +1,1 @@
+Parser result go here under "minipi.json"
