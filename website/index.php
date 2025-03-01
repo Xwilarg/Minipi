@@ -16,7 +16,18 @@ foreach(range('A','Z') as $v){
     $speArray[$v] = in_array($v, $specials);
 }
 
-echo $twig->render("index.html.twig", [
-    "minipi" => $minipi,
-    "specials" => $speArray
-]);
+
+$json = isset($_GET["json"]) && $_GET["json"] === "1";
+
+if ($json) {
+    header('Content-Type: application/json; charset=utf-8');
+    echo json_encode([
+        "minipi" => $minipi,
+        "specials" => $speArray
+    ]);
+} else {
+    echo $twig->render("index.html.twig", [
+        "minipi" => $minipi,
+        "specials" => $speArray
+    ]);
+}
