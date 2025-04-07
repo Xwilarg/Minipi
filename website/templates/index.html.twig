@@ -31,6 +31,8 @@
   </div>
 </div>
 <div class="container">
+  <img src="img/minipi.png"/>
+  <div class="article">
     <h2 class="subtitle">Minipis</h2>
     <p>
         Minipis created by Pi in the context of her duty
@@ -40,16 +42,106 @@
     <div class="cell"><button class="button button-minipi" data-writtenBy="{{m.writtenBy}}" data-likes="{{m.likes}}" data-behaviors="{{m.behaviors}}">{{m.id}}</button></div>
     {% endfor %}
     </div>
-</div>
-<div class="container">
-    <h2 class="subtitle">Specials</h2>
-    <p>
-        Specials minipi created outside of normal circumstances
-    </p>
-    <div class="grid">
-    {% for key,value in specials %}
-    <div class="cell"><button class="button button-special" {% if not value%}disabled{% endif %}>{{key}}</button></div>
-    {% endfor %}
-    </div>
+  </div>
+  <div class="article">
+      <h2 class="subtitle">Specials</h2>
+      <p>
+          Specials minipi created outside of normal circumstances
+      </p>
+      <div class="grid">
+      {% for key,value in specials %}
+      <div class="cell"><button class="button button-special" {% if not value%}disabled{% endif %}>{{key}}</button></div>
+      {% endfor %}
+      </div>
+  </div>
+  <div class="article">
+      <h2 class="subtitle">Minipi backstory</h2>
+      <p>
+          Pi is an android made to help with community tasks around 大Batsu<br>
+          While others androids are directly connected to a server with their pin, Pi's one hold no such power<br>
+          To manage minipi, her own server was put in place, this server is itself linked to the main one by a very weak link<br>
+          But for each minipi, this link is growing slightly sronger by a very tiny amount, and everytimes a minipi realize her dream, this link get 10 times stronger
+      </p>
+  </div>
+  <div class="article">
+      <h2 class="subtitle">Technical specifications</h2>
+      <p>
+        A mini pi is made of 2 main parts:
+        - The head, which contains most of the part for memory and decision making
+        - The body, which contains energy management
+
+        <h3 class="subtitle">Head</h3>
+        ## Life core<br>
+        Life core is a component that define mini pi as a being, it is created by Pi and its content is actually only know by herself, it's also what interact with the others component and contains Pi[OS]<br>
+        <br>
+        ## Vision<br>
+        Mini pi only have one eye, making them struggle seeing things in 3 dimensions, and having a bigger field of vision on the left part of their body, due to it being off centered<br>
+        They can see the same spectrum of color as human can<br>
+        <br>
+        ## Communication<br>
+        Mini pi have a mouth but its limited movements only allow them to do limited sounds, along with their communication card, they do "pi" noise to communicate<br>
+        While speaking with others, it allow them to convey basic feelings, but it also allow them to communicate between each other, using various intonations and length of pi noises<br>
+        <br>
+        ## Clock<br>
+        Mini pi have their own internal clock, when they walk together, they use them to walk and pi in a synchronized way<br>
+        <br>
+        ## Antenna<br>
+        Mini pi antenna act as an exhaust pipe, since mini pi heat management is done with a special coolant, it sometimes produce bubbles<br>
+        <br>
+        ## Memory<br>
+        Mini-pi memory work in block of 1024KB, is block is associated to a specific information, which is why minipi aren't good at storing a large amount of different informations<br>
+        <br>
+        The evening, each mini go back to their charging pod and their decision center will filter which data they want to purge or update from their volatile to non volatile memory<br>
+        <br>
+        If mini run out of battery, that memory will quickly degrade until it's totally destroyed<br>
+        <br>
+        ### Non-volatile<br>
+        Mini pi non volatile memory allow them to keep data between days, that memory however slowly degrade with time and mini pi have to see these events again once in a while to keep remembering them<br>
+        <br>
+        ### Links<br>
+        Links is a block of **[1]** that mini pi uses to link text memory and image components<br>
+        <br>
+        ### Text<br>
+        Text memory is the core of mini pi functionning, it stores basic data<br>
+        - **Self [15]**: This block is read-only and contains basic information about what is a mini-pi, who is Pi, what is "good" and "bad", and base reaction in case of emergency, even if a mini-pi is hacked, these blocks can't be overwritten and act as primary information over the others<br>
+        - **Core [10]**: Basic mini pi knowledge, it contains information related to their basic education, such as how to inteprete things, how to walk, how to manipulate objects etc<br>
+        - **Instruction set [2]**: Where mini pi stores their current objectives, there is **[1]** block reserved which contains Pi directives and **[1]** that contains their own goals<br>
+        - **Language [3]**: Mini-pi are able to understand common language **[2]** and communicate between themselves with by "pi-ing" **[1]**<br>
+        - **People [5]**: Mini-pi can uses these block to remember people, when someone is important, knowledge about them usually use a whole block, for less important people they are sometimes grouped together in a block, which also cause minipi to sometimes mix them<br>
+        - **Hobby [1]**: This is a block where minipi store their main hobby, the main reason why mini pi only have one main activity is because they only have one block to store it, it contains the hobby and all information that goes with it<br>
+        - **Free [5]** Blocks that mini pi are free to used however they like<br>
+        <br>
+        ### Image<br>
+        Image memory is **[30]** blocks of memory that minipi uses to remember information on an image format, it can contains many things such as recognizing people, locations, informations related to their hobbies etc...<br>
+        It's separated this way:<br>
+        - **Reverved [20]**: Memory allocated by Pi for base mini pi knowledge, such as how Pi herself looks like, what basics object around them are, what are others mini pi like, etc...<br>
+        - **Free [10]**: Memory that mini pi are free to uses, each block surround a concept (hobbies, friend, events, etc...) but they are free to chose which represent what and manage them as they like<br>
+        <br>
+        ### Volatile<br>
+        Volatile memory is memory that is kept for the day and discarded at the end of it<br>
+        <br>
+        ### Decisional
+        Minipi contains **[2]** block which stores information about what the mini pi is currently experiencing, it works as a system of double buffering where once the mini pi want to archive current information it switch to the 2nd information block and it goes into the rest of volatile memory<br>
+        ### Volatile<br>
+        Mini pi contains **[7]** blocks of image, **[2]** blocks of text and **[1]** block of links volatile that they use to store daily information before storing them into non volatile memory<br>
+        <h3 class="subtitle">Body</h3>
+        ## Battery<br>
+        Mini pi uses rechargeable lithium-ion battery to power themselves<br>
+        Their battery can easily get damaged when they sufffer a shock<br>
+        Pi can repair them, accessing it from a small trap from under its legs<br>
+        <br>
+        The battery is made to last a whole day and requires 10 hours of charging when empty, but can be drained quicker if mini pi used more resources<br>
+        <br>
+        When the mini pi battery reach under 5%, the mini pi will enter into power saving mode, where all its functionalities will stop except for their clock and network receptor<br>
+        <br>
+        ## Tail<br>
+        Mini pi have a tail they use to charge themselves<br>
+        Special outlets were installed in some special places in the city so mini pi can charge themselves emergently<br>
+        It's also used to charge them in their charging pod<br>
+        <br>
+        ## Receiver pin<br>
+        Allow for mini pi to be summoned by Pi in case of emergency situations
+      </p>
+  </div>
 </div>
 {% endblock %}

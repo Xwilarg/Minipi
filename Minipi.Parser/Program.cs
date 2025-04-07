@@ -10,13 +10,15 @@ foreach (var d in minis.Reverse())
 {
     var split = d.Split("###");
     var writtenBy = split[0].Split('\n')[1];
-    info.Add(new()
+    MinipiInfo outInfo = new()
     {
         ID = int.Parse(split[0].Split(' ', '\n')[0]),
         WrittenBy = string.IsNullOrWhiteSpace(writtenBy) ? null : writtenBy.Trim(),
         Likes = string.Join("\n", split[1].Split('\n').Skip(1)),
         Behaviors = string.Join("\n", split[2].Split('\n').Skip(1))
-    });
+    };
+    if (outInfo.Likes == null || outInfo.Behaviors == null) throw new NullReferenceException($"Missing data for {outInfo.ID}");
+    info.Add(outInfo);
 }
 
 File.WriteAllText("output.json", JsonSerializer.Serialize(info, new JsonSerializerOptions()
