@@ -1,3 +1,5 @@
+import { MasonryGrid } from "@egjs/grid";
+
 function setup()
 {
     document.getElementById("modal-minipi-close").addEventListener("click", _ => {
@@ -24,7 +26,7 @@ function setup()
         });
     }
 
-    const grid = new MasonryGrid(container, {
+    const grid = new MasonryGrid(document.getElementById("gallery"), {
         gap: 5,
     });
 
