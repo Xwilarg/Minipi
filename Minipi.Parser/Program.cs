@@ -1,6 +1,6 @@
 ﻿using System.Text.Json;
 
-var inputPath = "D:\\Projects\\Katsis\\StellaNotes\\Ebereus\\Characters\\MiniPi\\MiniPi.md";
+var inputPath = "D:/Projects/Perso/Minipi/data/minipi.md";
 
 var data = File.ReadAllText(inputPath).Replace("\r", "");
 var minis = data.Split("\n## ").Skip(1);
