@@ -18,3 +18,8 @@ h1, h2, h3, h4 {
 ul {
     list-style: inside !important;
 }
+
+#gallery img {
+    max-width: 500px;
+    max-height: 500px;
+}
