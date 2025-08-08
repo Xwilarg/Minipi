@@ -26,3 +26,7 @@ ul {
 .button-special {
     width: 50px;
 }
+
+a {
+    color: rgb(230, 71, 71);
+}
