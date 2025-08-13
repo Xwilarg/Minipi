@@ -1,4 +1,141 @@
 ![[MiniPis-Image.png]]
+## 299
+### Likes
+- What happens next
+### Behaviors
+- Once something happen, is really excited about what will be the consequence and especially, what will happen afterwards
+- Is always really eager to help for this reason and will follow you until the task is done
+- You can know it's her because it's the only minipi that will *always* be looking at you while working, quietly expecting the results of her actions
+- She just wants to be in the room where it happens
+## 298
+### Likes
+- Moving around without walking
+### Behaviors
+- Like to go around, but by never using her little legs
+- Her best way to do that if taking public transportation
+- When she have to go out, she will look at someone while raising her arms so they carry her
+- Her very innovating method to handle down slopes is just lying and letting herself roll
+- When she is stuck somewhere where she has to move, she will piiiii until a minipi come help her
+## 297
+### Likes
+- Past events
+### Behaviors
+- Walk around and try to observe everything that happen
+- Once home, she will spend time writing everything in a book to keep a trace of the events
+- Pi has to build a small archive room in the basement because the books were starting to take a looot of place
+- She generally just observe from afar, and if you speak to her she will run away while doing pipipipipipi
+## 296
+### Likes
+- Doing toasts
+### Behaviors
+- Will patiently wait for you to open a bottle, a glass in hand
+- If you ask her to make a speech, she will be ready to pipipipi for a new minutes
+- Will actually drink her glass afterward
+- You better watch her in the eyes when your glass collides
+## 295
+### Likes
+- Tasks done perfectly
+### Behaviors
+- When assigned to a task, she will ensure it's done to the perfection
+- Sometimes she will come back on a task that was finished a few day ago because she will remember something that wasn't done properly
+- Is often assigned to task that are very crucial, and where the deadline doesn't matter that much
+- Will get very angry at you if you decide to take shortcuts
+## 294
+### Likes
+- Tall buildings
+### Behaviors
+- If you build something, she will look at you like "why don't you make this 2 floors taller"
+- Made the tallest sandcastle you ever saw
+- Really want to make Pi's house taller, settled in adding a small side tower in the garden instead
+- Don't really want to climb these buildings, but love watching them from the ground
+## 293
+### Likes
+- Fruits in trees
+### Behaviors
+- Spend time watching fruits grow in trees
+- Once they are ripe, she will try to climb to get them and offer them to someone
+- Keep photos of her favorite trees on her charging pod
+- Is able to tell you with 90% confidence how ripe an avocado is just from touching it
+## 292
+### Likes
+- Blue sky
+### Behaviors
+- Is truly happy only when the sky is a spotless blue
+- "Young mini yells at cloud"
+- Want to install a an electrical windmill on Pi's house so the propeller can blow the clouds away
+- Painted the living room roof blue and when it's raining outside she just stay in and look at it
+## 291
+### Likes
+- Genealogy
+### Behaviors:
+- Her main hobby is making a family tree of the minipi, which is essentially Pi on top and then looooot of branches for all the minipis
+- Micro and nano pis are adding a bit of vertical spice
+- Everyday, she wait for a new minipi to be created so she can update her tree
+- Have no idea what "advanced genealogy options" like "uncle" or "cousin" are
+## 290
+### Likes
+- Peaceful and slow life
+### Behaviors
+- All minipi have lot of different hobbies that make them around but when she have free time, she like to just sit around and enjoy the surrounding
+- Will usually follow others minipis that need help and when the task is done, she will just hang around and see what there is to see
+- Because she like to take things slowly, she is also one of the minipi that tend to do the less mistakes
+- Some people sometimes worry to see a minipi lying on the ground not moving, but she is just enjoying the day
+## 289
+### Likes
+- Lockers
+### Behaviors
+- Created a minipi lock working with their tails so they can have lockers that only them can open
+- Is installing lockers in minipi charging stations if they have valuable they want to store for the day
+- Is spending lot of time walking around to explore all locker rooms she can find and observe how they work
+- Sometimes go to the pool just to reserve a locker for a few hours, since minipi can't go in water she just sit there and watch people
+## 288
+### Likes
+- Gold
+### Behaviors
+- Unsurprisingly a minipi that is hard to please
+- Her main hobby is finding gold in rivers
+- Started to slowly decorate her charging pod by covering it with gold leaves
+- For now only own a single gold ring, but really want to have more
+## 287
+### Likes
+- Movie nights
+### Behaviors
+- Will pick a date for all minipi to reunite so they can see a movie
+- Spend her time in between reading about movies and so to know which one will fit the best
+- Once the movie is done, they will all pipipipi about it for a bit before going to sleep
+- Very rarely she will organize a marathon where minipi would watch a few movies in a row, this usually impact 大Batsu economy a bit since all minipi would wake up late the next day
+## 286
+### Likes
+- Hotfixes
+### Behaviors
+- Sometimes, an unexpected behavior will be detected in a minipi, when that happen she will run to tell Pi
+- She will then organize a schedule for all minipi don't go in deep maintenance all at once, for that she will gather information about ongoing tasks and what minipi are currently doing
+- Like to monitor minipis that come back from "dangerous" people like Theta, to see if there is anything wrong with the minipis afterward
+- Is one of the firsts minipi coming when a minipi emergency mode is activated, to see if it's due to a system violation
+## 285
+### Likes
+- Strategy games
+### Behaviors
+- You might think she is not thinking much, just looking at the board doing pipipi, but she in fact have 10 turns in advance in her mind
+- If a game last for more than a day, she will spend her resting time thinking of her next moves
+- If you beat her, she will pipipi to Pi for a few weeks until she play with her as a training
+- Will backstab you at the moment you less expect it
+## 284
+### Likes
+- Phobias
+### Behaviors
+- Have batrachophobia
+- Is really interested knowing what are others people biggest fears
+- Fight to makes environments more safe to people
+- Have a list of all the things others minipi fears so when Pi have a task to give, she can adjust things depending of who shouldn't go
+## 283
+### Likes
+Rap
+### Behaviors
+- Is said to be the minipi that can pi the fastest
+- Will start to rap at random moment, if it looks inspiring enough
+- Rap battles are a bit hard to judge since others people don't really understand minipi language
+- Will gather a few minipis so they can give more impact at the right times
 ## 282
 ### Likes
 - Meditation
