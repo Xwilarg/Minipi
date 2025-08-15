@@ -1,4 +1,32 @@
 ![[MiniPis-Image.png]]
+## 301
+### Likes
+- Redirections
+### Behaviors
+- If for any reason you need to be redirected, because of roadwork, waiting queue or anything, she will be here
+- After a few attempts of just doing pipipipi she now carry a sign with a big arrow
+- Sometimes Pi's house will need some work for renovation or other, she will then take care of explaining to minipi how they can now access the differents parts of the house
+- For some reason is only interested in directing people if they need to be redirected, so if a previous direction was already established
+## 300
+Ezra
+### Likes
+- Waddling
+### Behaviors
+A clump of mini-pis were waddling out of their rooms.
+A sunny day, as they look up, a nudge of excitement processed within.
+The mini-pis waddle, waddle and waddle. But one slips!
+
+A small scratch, on our mini-pi! So she loops, and waddles.
+
+Waddle, waddle, waddle, our mini-pi goes. 
+A wall? No problem, she waddles towards it? 
+A gap? She waddles, waddles waddles!
+Water? A mountain? A person!! She waddles!!!
+
+Back to her room, she waddles, as the sunny day wears off.
+She looks down, with a nudge of accomplishment processed within.
+Our mini-pi rests, charges, ready to... 
+Waddle, waddle, waddle.
 ## 299
 ### Likes
 - What happens next
