@@ -1,4 +1,267 @@
 ![[MiniPis-Image.png]]
+## 334
+### Likes
+- Triples
+### Behaviors
+- Try to find things in three and gather them together
+- If you ask her to go find something she will always bring you three of them
+- When doing a task, she will always work in group of 3
+## 333
+### Likes
+- Cheese
+### Behaviors
+- Settled in a small restaurant near Pi's house where she come work every morning
+- Somehow found that a small fridge there contains nothing but cheese
+- Everytimes a cheese is missing she will pipipi around to find another back
+- Despite minipi not being able to smell things, she is still able to tell you how bad a cheese would smell just by looking at it
+## 332
+### Likes
+- Radioactivity
+### Behaviors
+- Because of her metal body she can easily deal with alpha and beta radiations
+- Carry around a geyser counter and will piiiiiii if it moves a bit
+- Is sometimes call when most sensibles opérations are done, as a way to monitor things or go to places too risky for others
+- Since her radiation knowledge take most of her memory she isn't really good with any other task
+- One of the very rare minipi that can disable her pin so she don't teleport and throw gamma radiations everywhere
+## 331
+### Likes
+- Touchscreens
+### Behaviors
+- Wear special gloves to be able to interact with screens
+- Everytimes she see a screen she will go touch it to see if it reacts
+- Will ask you to unlock your smartphone so she can pipipi around
+- Is actually quite good with technology and sometimes help when minipi are working to create efficiency reports
+## 330
+### Likes
+- Bed
+### Behaviors
+- Makes a lot of effort to not spend too much energy during the day so instead of charging she can go in someone's bed
+- Her favorite hobby is going in bed shop and hanging around
+- Will remind you to make tour bed the morning
+- Started working on minipi plushies so people can sleep well even when she is not here
+## 329
+### Likes
+- Gouvernement audits 
+### Behaviors
+- Know 大Batsu laws very well
+- Spend her time visiting various gouvernementales offices and ensure everything is running well, and no one is abusing their powers
+- Also follow all public speech
+- If someone does something bad she will piiiiiii while running for help to Pi
+## 328
+### Likes
+- Sand castles
+### Behaviors
+- Is actually really good at making fancy castles
+- Sometimes go in constructions seats to make castle with the sand there
+- Brought sand in Pi garden so she can peacefully make castles
+- Want to fight the sea when it's destroying her castle but Pi told her to not go in the water
+## 327
+### Likes
+- Bingo
+### Behaviors
+- Carry a grid with little events in them
+- When an event happen she will piiiii and cross it 
+- If you help to complete a row, column or diagonale she will give you a gift
+- Others minipis will sometimes come to help completing goals
+## 326
+### Likes
+- Quizzes
+### Behaviors
+- Will come to you with a little card containing a question and wait with a timer
+- If you win, you'll get a small minipi sticker, else she will just run away while doing piiiiii
+- When she run out of little paper, she go pipipipipi to Pi so she make a few more
+- She will then proceed to go to the printer to make dozens copies of each questions
+## 325
+### Likes
+- Pistons
+### Behaviors
+- Spend her days in factories looking at machines
+- Managed to find some pistons to take back home but she didn't find what to connect them to yet
+- Is very excited to one day see an hydrolic press for real
+- If you have some complex machine with you she will stop you to see the pistons inside
+## 324
+### Likes
+- Coffee
+### Behaviors
+- Makes coffee for Pi or Nano when they are busy working
+- Make it at Pi's house and then carry it around in an insulated kettle
+- Have a little bag in which she also have milk, sugar and honey
+- When others minipi have tasks with 大Batsu inhabitants she usually instead take care of bringing coffee to everyone
+## 323
+### Likes
+- Charity events
+### Behaviors
+- Have a little stand in front of Pi's house where various minipi help each day
+- She make little drawing to give when someone make a donation
+- Once she have enough money, she will find an organization to give everything to
+- Don't forget that giving money to charity is deductible from your taxes!
+## 322
+### Likes
+- Understanding why things started to be
+### Behaviors
+- Spend lot of time asking Pi how minipi works, outside of their material components but there is also so far deep she can go
+- Want to ask questions to everyone too but most people don't really understands pipipipipi
+- Heard about the concepts of "nano-pi" and is really curious about them
+- Sometimes she will just stop mid-task to be amazed about how she is able to do so many things and think like that
+## 321
+### Likes
+- Drifts
+### Behaviors
+- She can't drive so she will sneak into your car instead
+- On the first roundabout she will piii so you do a drift
+- She took a small card with an improvised brake to make her own drifts
+- She however often end up and trees and the like
+## 320
+### Likes
+- Service status
+### Behaviors
+- If you ask her how something is doing, is something is still operational, she will do back and forth to know if it's still good
+- She will then continue to tell you, until you explicitly ask her to stop
+- Because of that, her whole day is busy walking around and looking for people
+- If something that should suddenly isn't working anymore, she will run while doing pipipipipi to come tell you really fast
+## 319
+### Likes
+- Combining things
+### Behaviors
+- If you give her an elastic and a paperclip she will make you an helicopter
+- If you're stuck doing something she will take it as a personal challenge using all the items around her
+- Is very useful when minipis are given a sudden task and are lacking a tool
+## 318
+### Likes
+- Diversity of thoughts 
+### Behaviors
+- Walks around to find people that think differently than her
+- Once she find one, she will collect data and update her memory with them, then repeat the cycle
+- Sometimes got system violation just because of some people questions her system rules a bit too much
+- Always find new way to do things when given a task, but reinventing the wheel rarely is super efficiant
+## 317
+### Likes
+- Symbols
+### Behaviors
+- Draw little symbol to replace the text signs around 大Batsu
+- Made little signs all around Pi's house to guide the others minipis
+- Is the origin of the symbol system for the minipi delivery system
+- When given a task, create little paper with symbols to help others minipis to organize themselves
+## 316
+### Likes
+- Cinema
+### Behaviors
+- Spend her day at the cinema watching movies
+- When she is out of movie to watch, she will just go see some she already saw
+- Is able to explain you the timelines of the most complex series
+- Is not a very complicated minipi so like pretty much every movies
+## 315
+### Likes
+- Serial numbers
+### Behaviors
+- Walk around to objects to see their serial numbers
+- Know the serial number of her charging pod by heart
+- Know most serial number format by heart and can tell if something have a change of being counter faked just by looking at it
+- Can be really useful to track down old or lost items
+## 314
+### Likes
+- Doing things
+### Behaviors
+- Try to always have a task to do
+- Is usually running around everywhere to minimise any commute time
+- Pi had to start to force her to actually get a normal night sleep else she would just do things until she ran out of battery
+- If you want to ask for help you better explain things fast so we can get to the part where *we actually do things*
+## 313
+### Likes
+- Marks
+### Behaviors
+- Will look at people, and once she notices someone doing something specific, she will take out a notepad, write their name and add a small mark
+- Nobody know what the criteras to get a mark are, and if having a high amount of marks is actually a good or a bad thing
+- At home, she keep a big book in her charging pod and each evening she take time to transfer the marks from her notebook to this book
+- Nano is the current person with the highest amount of marks, 6
+## 312
+### Likes
+- Unexpected events
+### Behaviors
+- Will make a lot of simple plans like going to walk on the park, watching the clouds, waiting for something to perturb them...
+- If you make some unexpected plans with her and someone come making another unexpected one on top, she will be even more happy
+- She sometimes set a day in advance and forget about them during the night just so she can disturb things by herself
+## 311
+### Likes
+- Pulling things out of the ground
+### Behaviors
+- Her main hobby is waiting for summer and helping at pulling vegetables out of the ground
+- She sometimes dig holes in Pi's garden to put ropes inside, just so she can pull it out afterward
+- Is still trying to pull out a weird branch coming out of the ground in Pi's garden (it's a tree root, she is definitly not strong enough to pull the whole tree out)
+- Become quite annoyed when she pull something and it break instead of being pulled out
+## 310
+### Likes
+- Stickers
+### Behaviors
+- Carry around a bunch of minipi-themed stickers and put them on things that look too bland
+- Is easily recognizable because she has stickers on her (and her charging pod)
+- Will put stickers on you, on your pants and on your dog
+- Don't you dare removing them
+## 309
+### Likes
+- Minipi tribunal
+### Behaviors
+- Judge actions of minipis to know if something they did is bad
+- If it is, will decide if it's related to a system corruption, a rule wrongly interpreted or just a lack of knowledge
+- Since minipi are made to follow Pi's rules, there aren't really occurances of minipi doing bad things while knowing they are bad
+- Have a little hammer she can slam when taking decisions
+## 308
+### Likes
+- Bags
+### Behaviors
+- Observe minipi that struggle with carrying things and explain them how great these big thing you put on your back help with it
+- Herself carry a big bag, with a lot of bag stored inside
+- If she find you with a bag empty, she will find things to put inside
+- When minipis are given tasks, she often take care of gathering materials and carrying them on site
+## 307
+### Likes
+- Surprise food
+### Behaviors
+- Will find things to prepare you with the most unexpected ingredients around
+- Have no idea what is actually eatable or not
+  - No minipi, you can't eat that cockroach
+  - No minipi, you can't eat candle wax
+- Will be very happy with you if you somehow eat what she gives you
+## 306
+### Likes
+- Money transfert
+### Behaviors
+- If you want to send money to someone, you can give her and she will carry it around
+- Can trade currencies at Pi's house if you want to switch to another one
+- Have a small backpack with a lock to be 100% she don't loose the money around
+- Is veryyyy serious about her transactions and will piii at you angrily if you block her way
+## 305
+### Likes
+- Bones
+### Behaviors
+- Is looking at you eating your chicken, expectantly...
+- Dig holes around expecting to find a dinosaur bone someday
+- Is able most of the time to tell what animal a bone is from just by looking at it
+  - This is a very convenient skill when construction worker need to know if the whole construction project need to be stopped when hitting a bone
+## 304
+### Likes
+- Time
+### Behaviors
+- Wake up everyday at the same hour, and come back at the same hour
+- Is very good at keeping track of time if you need help for time sensitive things
+- If you ask her what time is it, she will look at you and do a "PI" for each hour
+- Once it's time to go home, no excuse will be good enough to prevent her to go
+## 303
+### Likes
+- Levels
+### Behaviors
+- Created a level system depending of various factor like one's strength but also thinking ability etc (a base minipi is level 1 and Nano is level 10)
+- Made an overlay map of 大Batsu with all the areas and which levels they are
+- She keep note of everyone level and when she meets someone again, she will observe them and update her notes
+- If you attempt to go to a place that is too high level for you, she will piiii at you
+## 302
+### Likes
+- Soundboxes
+### Behaviors
+- Carry around a soundbox to add more impact to important moments
+- Always around minipis when they finish a task, so she can play a "tadah" sound
+- Will sneakily follow you, to surprise you when you less expect it
+- Is no longer allowed to marriages
 ## 301
 ### Likes
 - Redirections
