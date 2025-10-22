@@ -17,7 +17,7 @@
 ## 367
 ### Likes
 - Inflation
-## Behaviors
+### Behaviors
 - No, not this kind of inflation
 - Made her own money called "pipipipipi" and draw more of it everyday
 - Pi still is trying to explain her that no, we can't print millions of new 大Batsu pins 
