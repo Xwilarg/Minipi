@@ -1,4 +1,75 @@
 ![[MiniPis-Image.png]]
+## 368
+### Likes
+- Culture
+### Behaviors
+- Work to establish an almanach on minipi culture
+- Spend lot of time following others minipis to study their habits, and how they vary depending of each minipi
+- Started to dig a 2nd basement in Pi's house that are only allowed for minipis
+## 367
+### Likes
+- Inflation
+## Behaviors
+- No, not this kind of inflation
+- Made her own money called "pipipipipi" and draw more of it everyday
+- Pi still is trying to explain her that no, we can't print millions of new 大Batsu pins 
+- With the help of Zirk, hold an exchange rate chart between 大Batsu pins and Rhefir different moneys just so she can watch them inflate
+## 366
+### Likes
+- Mass production
+### Behaviors
+- Pipipi around until she see someone craft a thing and think "we could make 10000 of that"
+- Will fight Nano so patents get dropped to skip straight to production phase
+- Don't understand why Pi won't (can't) streamline minipi production
+- Her favorite task is setting up factories
+## 365
+### Likes
+- Loot box
+### Behaviors
+- Hold a minipi loot box stand for those who need a minipi to help them
+- Minipi are hiding in a box, allowing you to draw one 
+- Minipi that rarely agree to participate get a SSR rank
+- Whatever the minipi you get, she will always be excited 
+## 364
+### Likes
+- Minipi award
+### Behaviors
+- Every year in Pi's house, hold a ceremony for the minipi of the year
+- Make little 3D printer minipi she the offer for the winner
+- Nobody really know what the awards are based of but it's still a nice group moment to celebrate
+- The rest of the year she observe minipis from afar to check who would be best
+## 363
+### Likes
+- Jobs
+### Works
+- Spend a few days in companies looking for empty positions and then will pipipi around to look for employees
+- While finding someone, she will assign a few minipis to fullfil the position
+- The rest of the time she like to spend time around other people working, encouraging them
+## 361
+### Likes
+- Imported goods
+### Behaviors
+- Everytimes Nano or an android leave 大Batsu she wait hoping that they will bring her back something
+- Is sometimes seen wearing strange exotic clothes when she receive some
+- Will pipipi in front of you to show you how cool her new treasures are
+- Pipipi a lot to Nano so he buy her tools from Ebereus, so she can work on her assigned tasks without using the 大Batsu ones
+## 360
+### Likes
+- Electricity use
+### Behaviors
+- One day when plugging a new charging pod, all the power went out and all minipis started to panick around, since this day this minipi decided this would never happen again
+- Keep a chart of Pi electrical installation and ensure there will be enough power for the next ones 
+- When it's not the case she will go speak to Pi so she can negotiate more power and the installations for it
+- Is spending lot of time to learn to understand electricity, voltage, résistances, etc...
+- When the power go out, she is the only minipi allowed to put it back
+## 359
+### Likes
+- Museums
+### Behaviors
+- Opened a small museum in a room on the border of Pi's house
+- Collect information about minipi création and such, and expose them there
+- Spend lot of trying pipipipi-ing to Nano to get more information about Android themselves
+- When a minipi is bornt, she rush to ask them questions to get more information about their core memories
 ## 358
 ### Likes
 - Repairing charging pods
