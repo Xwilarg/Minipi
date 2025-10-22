@@ -1,4 +1,12 @@
 ![[MiniPis-Image.png]]
+## 369
+### Likes
+- Sending bird messages
+### Behaviors
+- Somehow managed to make Pi install a dovecote in her house
+- Established a complex system of bird messages to communicate between Pi's house and various minipi charging stations
+- Usually spend her day in the house in case some important message arrives and spend time with the minipis that have tasks there
+- Because very quickly a big friend of \#244
 ## 368
 ### Likes
 - Culture
