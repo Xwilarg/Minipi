@@ -1,4 +1,195 @@
 ![[MiniPis-Image.png]]
+## 358
+### Likes
+- Repairing charging pods
+### Behaviors
+- Ensure that all Minipis charging pods are still charging well
+- Convinced Pi to have some backup charging pods that are used in case a charging pod break
+- Is able to fix some of the simplest problems charging pods might encounter 
+- "Did you try turning your charging pod off and on?"
+## 357
+### Likes
+- Syndicates
+### Behaviors
+- Form the CGM, the Confederation General of Minipis
+- Gather minipi revendications when they go beyond the scope of the suggestion box
+- When new minipi are bornt, she explain them their rights at work
+- Don't really go much on strike since Pi is quite open on everyone complain
+## 356
+### Likes
+- Suggestion box
+### Behaviors
+- Made a suggestion box, but since minipi aren't good at writing she just stay inside waiting for someone to come
+- Take note of the biggest complains then go see Pi about them
+- Also help looking for compromises for minipi that keep getting their idea denied because they are too hard to do
+- When she have a suggestion she ask another minipi to get inside the box to pipipi about it
+## 355
+### Likes
+- Pi's house
+### Behaviors
+- Since Pi is quite busy she often don't have time to take time for cutting grass in the garden, ordering wood for the chimney etc, so this minipi take care of that
+- One if the rare mini allowed inside Pi's lab
+- Often ask for some minipi to stay with her, especially when she need to do tasks that are near the roof
+- They still didn't manage to reach the spider at the top of the living room, she is called "pipipi" now
+## 354
+### Likes
+- Abstract things
+### Behaviors
+- Like to ask explanations about things, but when they become too concrete she will pipipi away
+- Like to spend time at modern art museums
+- She tends to be quite picky in which task she like to help with 
+- Is quite knowledgeable about quantum mechanism
+- You won't know if she is charging in her charging pod or not until you open it
+## 353
+### Likes
+- Greasing joints
+### Behaviors
+- Walk around everywhere until she hear a door that squeak
+- Carry around grease to put on the joints so it can then open silently
+- Once every yeah also take care of all minipi charging pods
+## 352
+### Likes
+- Raw material collecting
+### Behaviors
+- Discovered that most object around her were made of lot of metal and sub components
+- Go around find what people throw away and disassemble them to get back raw components
+- Once home, she will ask help to filter what Pi might actually need
+- She help a lot in outside tasks like construction site and stuff where she hope to get lot of raw components
+- Explaining her what she is actually allowed to take or not was a lot of work
+## 351
+### Likes
+- Air purifiers
+### Behaviors
+- Carry a big battery-powered air purifier around
+- Will pipipi for help to climb hills and such
+- When she see a impurity she will put it on the floor and activate it
+- Made Pi install a big one in her house so the air stay extra pure
+## 350
+### Likes
+- Guests
+### Behaviors
+- Find people to invite to Pi's house
+- Is able to make really good coffee
+- She will entertain you during the day by showing you around, playing card games and pipipipi-ing
+- If you stay until the evening, all the minipi will come pipipi to you
+## 349
+### Likes
+- Fine dining
+### Behaviors
+- Took most of her memories space to learn how to serve properly, table manners etc
+- Was made a little costume and now work in an expensive restaurant
+- Carry around a little trolley to serve meals
+- Her pipipi are 10% more fancy
+## 348
+### Likes
+- Exceptions
+### Behaviors
+- If you tell her a rule she will piii so you do a special case for her
+- If you make a special case for her she will then piii so you make one for all the others minipis
+- And then the exception become the rule so she will piii to have a new exception within it
+- Is allowed to go home 5 minutes later than the others minipis
+## 347
+### Likes
+- Noises
+### Behaviors
+- Probably the loudest minipi
+- Carry around a trumpet (don't know how to play it)
+- Pi reconverted a room in her house to insonorized it so noisy minipi can gather inside
+- Is not very good at doing tasks, but she sure do them with a lot of noise!
+## 346
+### Likes
+- Announcements
+### Behaviors
+- Can be contacted for any important event, your marriage, a party...
+- Will take care of doing all important announcements (by doing pipipi of course)
+- Carry around a megaphone for even more reach
+- Will climb the furnitures to find the highest place to pipipi
+## 345
+### Likes
+- Being early
+### Behaviors
+- Is always volunteer to take on a task, and will always be the first one to show up
+- Is also one of the first minipi to arrive home
+- She carry a small book she read while waiting, and since she can't read it's always been the same book
+- If she start being late she will pipipipipipi around
+## 344
+### Likes
+- Customization
+### Behaviors
+- Help others minipis in improving their look, charging pod etc
+- Walk everyday with a different hat
+- During the day, she craft stickers and the like to give to others minipis
+- Also spend time with others minipis to show them the world around so they can have a more open mind on how they want to be
+## 343
+### Likes
+- Bowling
+### Behaviors
+- Love to go to the bowling but struggle a bit because of the ball weight
+- Most of the time the ball go in the gutter but sometimes she manage to hit a few quills
+- She did a strike one day and this day is now forever in her mind
+- Want to install a bowling alley in Pi's house but this cause some logistic issues
+## 342
+### Likes
+- Checkpoint
+### Behaviors
+- Carry around a "book of saves"
+- When you go see her, she will write your name, your best achievements and your current attributes (how strong you are etc)
+- Is trying to take time to update all her saves of the others minipis but it's quite a long task
+- Don't forget to go see her before attempting something too risky!
+## 341
+### Likes
+- Memories
+### Behaviors
+- Collect memories of others, being photos, remembrances or anything
+- If you go to travel she will be awaiting to see all the photos you took
+- When others minipis go do some task a bit far away, she wait impatiently for them to come back with the story of their adventures
+- Once she come back home, she pipipi so Pi tell her day
+## 340
+### Likes
+- Free wifi
+### Behaviors
+- Carry around a little smartphone and try to hang out where the wifi is free 
+- If you set your mobile as an unprotected hotspot, she will follow you around
+- Can often be found at fastfood or airports
+- You better monitor your data well cause she will consume lot of it
+## 339
+### Likes
+- Warm things
+### Behaviors
+- Had her charging pod placed next to a radiator
+- Carry a small battery-powered heater when she has to go outside
+- On hot days, she will just spend time lying down at the beach
+- Stay the whole winter in Pi's house
+## 338
+### Likes
+- Remainding Pi about minipi production
+### Behaviors
+- Sometimes Pi will oversleep or have things she need to do the morning, when this minipi don't see Pi in her office the morning she will start to panick and pipipi around
+- The rest of the time she guard Pi's office from people that come to disturb her
+- She also manage Pi agenda to ensure she have enough working time each day
+## 337
+### Likes
+- Pickles
+### Behaviors
+- Will slide pickles in your burger when you're looking the other way
+- Make her own picles in Pi's kitchen
+- When assigned a task, she will bring a cup of pickles as a free gift for everyone there
+## 336
+### Likes
+- Doing things fast 
+### Behaviors
+- Hang out a lot with others minipis
+- Never walk, always run around
+- When someone is doing a task, she will join to it can be done faster
+- Will pipipi behind you so you go even faster
+- If going too fast provoque a mistake she will pipipipi as to go solve it very fast
+## 335
+### Likes
+- Sliding puzzle
+### Behaviors
+- Pi once bought her a sliding puzzle, it took her 7 months to solve it
+- Once she is done, Pi will scramble the puzzle and it'll take her a few months again
+- After finishing her puzzle, she will work on a few tasks before starting again
 ## 334
 ### Likes
 - Triples
