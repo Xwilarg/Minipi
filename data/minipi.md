@@ -1,4 +1,223 @@
 ![[MiniPis-Image.png]]
+## 396
+### Likes
+- Multiculturalism
+### Behaviors
+- Go around finding people that recently joined 大Batsu
+- Show them around, explain them how things work and see how their uses and habits and integrate into the rest
+- Is often called when incidents happen related to a difference of point of view due to people coming from different places
+- As a gift people sometimes give her things from their native place, which she use to decorate Pi's house
+## 395
+### Likes
+- Law rightfulness
+### Behaviors
+- Believe that everything can be solved in the right way
+- Go to argue with Neru, Nano or the 大Batsu generals when a problem isn't solved the right way
+- Is known to be veryyyyy persistant
+- Keep a huuuge book as a reference that contains all current laws, problems and how they were resolved
+- It usually takes her at least a few days of looking through it for any problem
+## 394
+### Likes
+- 大Batsu pipeline network
+### Behaviors
+- Carry around some huge unique pickaxe that is said to be able to go through anything
+- Due to her small size it takes her a looong time to break anything with that pickaxe but since the amount of people that can do so are very limited people learnt to be patient
+- Also keep tracks of all pipes with marks on the ground and map of them at Pi's house
+- She reorganized Pi's water, gaz and electricity pipeline at least 10 times, just for the sake of them being nearly organized
+## 393
+### Likes
+- Following others
+### Behaviors
+- Follow her own minipi like until she find someone that does something else
+- When that happens she will drop all she is doing for these new tasks
+- When she wake up she will follow a bunch of minipi to see what they are planning to do in their days
+- If she is with the same person for more than one hour she will start to wander away to find a new person
+## 392
+### Likes
+- Keys
+### Behaviors
+- Everytimes she find a key around, she will add it to her key ring
+- Then everytimes she see a door, she will try all her keys one by one to see if one work
+- If you lost the key to your house, she might already have a double...
+- Installed a lock on a charging pod that requires 3 differents keys
+## 391
+### Likes
+- Competitive games
+### Behaviors
+- Spend her time playing at FPS and MOBA
+- Would actually be pretty decent if her teammates didn't keep mixing "pipipi" and "pipi"
+- Is silver and pipipipipipi since 8 months but is doing her best to climb to gold
+- Complains when Pi tells her that now she has to go see the outside a bit
+## 390
+### Likes
+- Reports
+### Behaviors
+- Keep track of all projects minipi are working and are planning to do
+- Do an annual report to Pi, Nano and Zirk at the end of the fiscal year
+- Every slide is either a pie or a bar chart with absolutely no legend
+- The presentation last between 3 and 5 hours and go over what was done, what is planned, prospect and financing for the future
+## 389
+### Likes
+- Remembrance
+### Behaviors
+- Hold record of the bad things that happened in 大Batsu to make sure they don't happen again
+- Hold a little museum in the side of Pi's house to educate people
+- Somehow managed to translate everything in both 大Batsu language and minipi one with audio recordings
+- Her main hobby is going around like in school to tell people what happened 
+## 388
+### Likes
+- Lost items
+### Behaviors
+- Wander around to find objects that were left alone in public
+- At first was planning to keep them for herself but Pi explained to her she had to give them back if someone was looking for them
+- She doesn't accept gifts but would love if you "sadly" forget something around her 
+- Have a little booth next to Pi's house where she shows her collection (and allow people to get their things back)
+## 387
+### Likes
+- Hair
+### Behaviors
+- Store lot of hair products in Pi's bathroom, but since minipi don't have hair she wait for others people to come use them
+- During the day, she helps as a hairdresser
+- When she sees someone with long hair, she will pipipi so she can change their hairstyle
+## 386
+### Likes
+- Painting walls
+### Behaviors
+- A very useful minipi to have around when you do house renovations
+- However since she has no color theory you better choose the colors before she does
+- Pi's living room is beeing repainted approximatively once every two months
+- Will need the help of a lot of others minipis to reach high places
+## 385
+### Likes
+- Rules
+### Behaviors
+- Like the idea of rules, but more the idea that they constraint one to do things so she doesn't really look for ones that makes sense
+- Minipi being easy to convince are plenty happy to let most of them pass 
+- There was a 2 weeks period where each minipi had to wish a good day to Nano before going to work, it was stopped after one day Nano couldn't be found at all and thus no minipi could work
+- She hold a big book with all the laws that are in effect, most of them now being strukethrough as no longer active 
+## 384
+### Likes
+- Guides
+### Behaviors
+- Will pipipi around to find someone that is struggling with a task
+- Once she finds one, she will spend all her time to write a guide on how to perform this task and hand it to the person
+- Since the guide is in minipi language, understanding anything else than the illustrations can prove... Tricky
+- Also write guides for others minipis when they can't do things properly
+- MPDS official internal guide is written by her
+## 383
+### Likes
+- Public transport
+### Behaviors
+- Found her hobby after going in \#65 train
+- Made the MPTS (Mini-Pi Transportation Service) to manage public transports within 大Batsu
+- Her job is pure management, handling train/bus line construction, managing budget, knowing where to place the stops and speaking with adjacent factories to handle private deliveries by these lines
+- She has a little office in Pi's house ; each time a new train or bus model is inaugurated, she takes a photo with others minipis in front of it and hang it there
+## 382
+### Likes
+- Spices
+### Behaviors
+- Lurk around to find people that don't season their food
+- Keep a small backpack with lot of different spices, will throw some in your food when you're not looking
+- She will put spices in your yogurts too
+- Apart from that she mainly do tasks in restaurants and such
+## 381
+### Likes
+- Electricity
+### Behaviors
+- Enjoy just being near devices that rely on electricity like lamps or microwaves
+- Is the reason an electrical outlet was installed in minipi charging stations
+- Always carry a power bank around, if you ask nicely she will let you charge your phone
+- Is quite efficient at working on tasks as long as you give her something electrical-powered
+## 380
+### Likes
+- Calculators
+### Behaviors
+- Once found some magic portable machine that do number magic
+- When she see number around, she will enter them in her machine and pipipi on it, and then look at you, awaiting her reward
+- She can sometimes help with actually doing mathematics if needed
+- Since batteries are solar powered she will sometimes let it rest in the garden, put a small cover on the button part and tell it minipi stories
+## 379
+### Likes
+- Placeholders
+### Behaviors
+- When minipi need to do tasks, she will craft placeholders to simulate the final version
+- For example if they do a parking she will makes placeholder cars, when Pi make a new charging pod model she will makes a placeholder minipi
+- All placeholders then go to a room named the "placeholder room" that just store unused props
+- When there is no task to do she will just create empty placeholders, like a fake apple to place in your fruit basket etc
+## 378
+### Likes
+- Speaking
+### Behaviors
+- Mostly spend time pipipipi-ing with others minipis
+- She will correct any grammar spelling she notices
+- If you meet her and say "pipipi" to her without knowing what you say, she will run away
+- Keep a small handwritten grammar book in her sleeping pod so she can review it every evening
+## 377
+### Likes
+- Cutting grass
+### Behaviors
+- She don't especially enjoy the fact that the grass is cut, but really the act of cutting grass itself
+- She uses a small pair of scissors so she can enjoy the grass cutting at its maximum
+- Won't allow you to come inside the garden until she is done
+- Have a patch of grass that only her is allowed to cut inside Pi's garden
+## 376
+### Likes
+- Precision
+### Behaviors
+- Supervise minipi tasks and ensure they are as precise as possible
+- A big reason of why minipi have to redo some tasks many times, and why what they build stands the test of time
+- Expect you to specify the margin of error for any measurement you write
+- Is keeping a chart of her height over time with 3 decimals (it's always the same)
+## 375
+### Likes
+- Reforms
+### Behaviors
+- Once something is decided among minipi, being related to their culture, language, habit or anything else, she will go explain to Nano what it is
+- If Nano doesn't understand or take too long to react it means it needs to be reformed 
+- Will then go through all minipis to reform this part, find compromises and solve problems that might not exist to start with
+- The word "pípīpīpì" have been reformed 56 times for now because it's an obscure notion with no equivalent outside of minipi language and Nano still has no idea what it is about
+## 374
+### Likes
+- Theta ownership
+### Behaviors
+- Somehow decided that Theta ownership would belong to a single minipi (Theta itself ofcourse doesn't know)
+- She keep track of which minipi own her and is allowed to see her (and often come back hacked)
+- Sometimes Zirk will look the imaginary ownership to Nano and minipis will wait for him to get it back (Nano doesn't know either)
+- Her main hobby is keeping track of a very complicated system noone understand to see what is the current state of the ownership
+## 373
+### Likes
+- Fighting bricks
+### Behaviors
+- Nothing to do with the countries
+- Somehow don't like bricks but was forbidden by Pi to use destructive things
+- Had to settle on throwing slightly-slimy water everywhere and use that as an excuse to clean around
+- Outside of that she has lot of others hobbies like showing people how houses can be built with wood or how great gravel or cements are for roads
+- Want to be featured in a videogame someday, to show everyone her point of view
+## 372
+### Likes
+- Grants
+### Behaviors
+- Spend her day finding people with cool innovative projects to give them government funds
+- Then make a jury of minipi so people can show their progress as a proof they are using the grant properly
+- Some of the minipi projects are financed this way, such as the MPDS
+- People often send her gifts to influence her but she thinks it's just nice people that like her and the others minipis
+## 371
+### Likes
+- Industrialization
+### Behaviors 
+- Identify problems within minipi process and propose for a way to both solve it and streamline the solution
+- Is working on a way to 
+electrify the trolleys used by MPDS but they still struggle with the new processes
+- Had a very good idea to improve all minipi travels but ended up just negociating a bus annual pass for all of them
+- During her days she just observe all minipis to see where their struggle points are
+## 370
+### Likes
+- Feedbacks
+### Behaviors
+- Made survey forms with the help of Pi to distribute them to people once a task is done
+- If someone said they were dissatisfied she will panic and run to Pi
+- At the end of the year she will help to compile a progress report for Nano
+- Once had worn a sombrero for a month after someone said minipi didn't feel exotic enough anymore
 ## 369
 ### Likes
 - Sending bird messages
