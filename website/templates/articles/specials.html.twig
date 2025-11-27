@@ -1,0 +1,9 @@
+<h2 class="title" id="specials">Specials</h2>
+<p>
+    Specials minipi created outside of normal circumstances
+</p>
+<div class="grid mt-3">
+{% for key,value in specials %}
+<div class="cell"><button class="button button-special" {% if not value%}disabled{% endif %}>{{key}}</button></div>
+{% endfor %}
+</div>

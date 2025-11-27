@@ -1,0 +1,10 @@
+<h2 class="title" id="minipis">Minipis</h2>
+<p>
+    Minipis created by Pi in the context of her duty<br>
+    <small>Since this is updated manually, this might be out of date</small>
+</p>
+<div class="grid mt-3">
+{% for m in minipi | reverse %}
+<div class="cell"><button class="button button-minipi" data-writtenBy="{{m.writtenBy}}" data-likes="{{m.likes}}" data-behaviors="{{m.behaviors}}">{{m.id}}</button></div>
+{% endfor %}
+</div>
