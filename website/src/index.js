@@ -26,7 +26,7 @@ function setup()
         });
     }
 
-    const grid = new MasonryGrid(document.getElementById("gallery"), {
+    const grid = new MasonryGrid(document.getElementById("gallery-content"), {
         gap: 5,
     });
 

@@ -5,7 +5,7 @@ require_once "vendor/autoload.php";
 use Twig\Loader\FilesystemLoader;
 use Twig\Environment;
 
-$loader = new FilesystemLoader(["templates"]);
+$loader = new FilesystemLoader(["templates", "templates/articles"]);
 $twig = new Environment($loader);
 
 $minipi = json_decode(file_get_contents("data/minipi.json"), true);
