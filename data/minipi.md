@@ -1,4 +1,269 @@
 ![[MiniPis-Image.png]]
+## 428
+### Likes
+- Adventures
+### Behaviors
+- Found herself a little sword and each morning go to adventure outside of the city
+- Take a few minipi with her and each assign them a role
+  - Minipi healer have bandages and carry a battery to recharge everyone battery
+  - Minipi tank have a big shield that prevent her to see anything when deployed
+  - Minipi rogue have a big stick so she can put it in traps to trigger them
+- There are actually no pre-assigned minipi for all of these roles, she just keep the equipement in Pi's house and each morning see who want to join her
+- She actually found a lot of treasures already and keep most of them in her charging pod
+## 427
+### Likes
+- Evacuation plans
+### Behaviors
+- Go around in building and make sure emergency exit are well indicated
+- When someone build a new house, she come to make a plan of it and hang one at the entrance
+- Once a year she does a emergency simulation in Pi's house so all minipi know what to do in case of danger
+## 426
+### Likes
+- Running
+### Behaviors
+- Spend all her day running everywhere
+- Because of that, she have to take breaks during the day to recharge her battery
+- Organise a marathon in 大Batsu once a year
+- She mainly is assigned tasks that requires to transport things around
+## 425
+### Likes
+- Weather
+### Behaviors
+- Made herself a small room in a balcony
+- Installed herself a thermometer, a barometer and a hygrometer, and is saving up for a anemometer
+- If you ask her about the current meteo, she will pipipi about it for 10 minutes to explain you all the details
+## 424
+### Likes
+- Book of truth
+### Behaviors
+- Made a book that contains all rules that minipi all agree with but aren't in their code as mandatory things
+- it ranges from community rules like "always take trash from the floor to throw them when you see some" to others interesting rules like "take photos of Theta to put it in the Theta collection box"
+- Somehow Zirk also decided to follow these rules
+- Since each minipi have their own writing system, only this minipi and Zirk can read the book
+- "There is nothing to do I don't make the rules"
+## 423
+### Likes
+- Erasers
+### Behaviors
+- Walk arounds in offices with an eraser
+- Wait for you to be done writing on your board so she can erase everything
+- You will have to carry her so she can reach the high places
+- She somehow became quite smart after spending lot of time waiting to erase univercity boards
+## 422
+### Likes
+- Comics
+### Behaviors
+- Write and draw a story about minipis and their adventures in 大Batsu
+- The rest of the time she mostly interview minipis about what they do
+- If you go ask her she will come read them to you
+- Store all the original volumes in the minipi library
+## 421
+### Likes
+- Planned events
+### Behaviors
+- Only accept to work on things if she is told at least 3 days in advance
+- Have a calendar to keep track of all annual minipi events
+- If she see you, she might come to plan a 10 minutes discution session in 3 months
+- Her day mostly go about making plans and following previous ones
+## 420
+### Likes
+- Minipi awards
+### Behaviors
+- Made an annual event that allow to reflect on how well minipis did the past year
+- Rewards are not done individually but rather they all speak together and at the end this minipi decide if they get the award or not (spoiler: they do)
+- Then provide a small award medal to each minipi
+- The majority of her year is spent planning the event, reserving a location for it, advertising it, etc...
+- She wear on her all award medals of the previous years
+## 419
+### Likes
+- First aid
+### Behaviors
+- All minipi are taught basic first aid but this one is *extremely prepared*
+- Carry around a little pouch with emergency tools
+- Mostly spend time in hospital helping there
+- Learnt to do things veryyy methodically to get rid of the minipi natural clumsiness 
+## 418
+### Likes
+- Benches
+### Behaviors
+- Noticed that when people are tired they like to sit down, therefore concluded that benches are the equivalent of minipi charging stations
+- Ensure that 大Batsu have benches a bit everyone so people are able to "recharge" everywhere
+- Also placed some in Pi garden, in case Nano come visit
+- One of her hobby is just walking around and cleaning all benches that might be dirty
+## 417
+### Likes
+- Minipi books
+### Behaviors
+- Lot of minipi write notes but as they do more and more, their charging pod aren't able to store them all
+- Arranged a room in Pi's house to store all these books
+- Her main hobby is organizing the books and reading them, even if she don't understand most of them
+- Also contains all work reports that were done after minipi tasks or annual reports
+## 416
+### Likes
+- Cooking recipes
+### Behaviors
+- Have a huge backpack that contains a single massive book
+- Everytimes she sees someone cook, she sits near them and write down all the steps 
+- This often allow her to leave with a slice of cake (main reason for recent Nano weight gain)
+- If you make a slight change to a recipe she will come back to observe it all over again
+## 415
+### Likes
+- Wildlife survival
+### Behaviors
+- Spend her days in places as isolated as she can
+- Know how to make fire with a silex
+- She has the 2nd place on "the minipi that had to be called back the most by her pin because she nearly gotten eat by a bear"
+- Built her own little charging station in the wild, to work it requires another minipi to run on a treadmill
+## 414
+### Likes
+- Timers
+### Behaviors
+- Will come toward you with a timer, look at you and activate it
+- You won't know what happens if it reach 0 but you better hurry
+- If you don't, she will start doing "pi pi pi pi" faster and faster
+- Once the deed is done, she will pipipi away and find a new target
+## 413
+### Likes
+- Capitalism
+### Behaviors
+- Believe that each minipi should be able to gain money to get what they want by themselves
+- Have a pot to store money, each minipi being given some each month
+- Since there are more and more minipi, she runs around to find more and more way to get money
+- Since lot of minipi don't really need money, lot of them are plenty happy just putting money back so the next minipi can have some
+## 412
+### Likes
+- Captcha
+### Behaviors
+- Her main hobby is solving captcha (she solved a total of 0 so far)
+- When she is very stuck, she goes to ask Theta for help instead (this has helped her solving 0 captcha so far)
+- She also can't solve recaptcha since she was told lying is bad, so she focus on the old ones
+- She printed a book full of captcha so she can do them on the go
+## 411
+### Likes
+- Upcycling
+### Behaviors
+- Go around 大Batsu to find trash and others she can use to create new amazing products
+- Her day mostly consist of finding them, cleaning them and processing them
+- She wear a big hat she made by herself
+- If you throw recycling things into the general trash she will piiiii at you
+## 410
+### Likes
+- Extreme cold
+### Behaviors
+- She don't actually feel the cold, but that don't change a thing
+- Always wear very hot clothes so her coolant don't freeze
+- Like to go in very cold places... but since there aren't a lot nearby she mostly stay in Pi's freezer
+- She one time tried to put ice cubes in her charging pod before going to sleep but had to be stopped by Pi for safety reasons
+## 409
+### Likes
+- Sumo
+### Behaviors
+- Created a small sand ring in minipi garden
+- Every evenings when all minipi gathers, she organize a minipi sumo tournament
+- Her main hobby during the day is learning about sumo, cleaning the sand ring, etc...
+- Once per year, minipi do a public sumo match in which 大Batsu can come watch
+## 408
+### Likes
+- Shop coupon
+### Behaviors
+- Go around and get all the shop coupons she can
+- Since it's usually to lot little text and minipi aren't really good at reading, decrypting them take most of her time
+- Once she gather a "good enough offer", she will pipipi so Pi buy it
+- In "goods that Pi have and don't need thanks to this" there are a tractor, a free trip to Ebereus (fraudulent), a free foot massage (coupon under the name of the minipi) and a yearly supply of pickles
+## 407
+### Likes
+- Washing clothes
+### Behaviors
+- Sometimes minipi wear some clothes, and those definitely need to be cleaned some times
+- If she sees Nano or Zirk with dirty clothes she will also jump on them so they take it off
+- When she don't have a lot to wash she just do it by hand so she can enjoy the process
+- Is somehow able to read all the weird symbols on clothes labels
+## 406
+### Likes
+- Prevention
+### Behaviors
+- Go around school and companies to show them risky situations and how to go around them
+- Also do sessions with all minipis for the same reasons
+- Drew a small pamphlet that show all risky situations so they can be prevented, illustrated with minipi doing bad minipi things
+## 405
+### Likes
+- Animals
+### Behaviors
+- Spend most of her time in the park or zoo playing with animals
+- Installed a bird feeder in Pi's garden that she maintains everyday
+- With the help of others minipis, she placed water recipients at various minipi stations for stray animals
+- Know that you shouldn't feed bread to ducks because it fills their stomach and gives them no nutriment
+## 404
+### Likes
+- Not being known
+### Behaviors
+- Always leave early and come home late and as thus most minipi never interacted with her much
+- Nobody is sure what she do during the days but she generally avoid others people and tasks
+- Pi generally avoid giving her tasks since she know this minipi would hate them
+- When she has a request she will just tell a small drawing illustrating it to Pi
+## 403
+### Likes
+- Syphon filters
+### Behaviors
+Will come into your house to be sure your sink and shower syphon filters are clean
+- Carry a little knife to cut hair or so that might be stuck in it
+- Make a collection of each possible brand of syphon filter existing
+- When Nano go to 大Batsu she asks him to go around all shop to bring her more
+## 402
+### Likes
+- Musicals
+### Behaviors
+- Might start singing randomly on the street
+- Will look expectantly at you so you join her
+- Look forward to all musicals that might happens in the local theater
+- Else when she has no task she spend time in Pi's house watching them on the TV
+## 401
+### Likes
+- Predicting future
+### Behaviors
+- People aren't sure if she can really produce the future or not, but her success rate isn't that high
+- She however don't really care about the result itself, but more about the process
+- Her main tool is a deck of card, all identic and blank, and a crystal ball than when plugged produces colors
+- People still come to see her since her predictions even if hard to understand, are all happy
+## 400
+Usser
+### Likes
+- Autostereograms
+### Behaviours
+- Found a book in the Dai Batsu library about Autostereograms. It said that if you would cross your eyes you could see hidden images and shapes in patterns. 
+- Finished the book after figuring out to see them.
+- Walks around and finds things of similar patterns to see if there are hidden autostereograms around. 
+- One day, she actually found one in the pattern of a wallpaper in a restaurant, the shape was an arrow pointing to north. 
+- She walked north to find a street painting that had a pattern, the pattern also hid another arrow, this time pointing to the east. 
+- To this day the minipi still follows arrows and is constantly crossing her eyes trying to find patterns everywhere, trying to uncover this mystery.
+## 399
+### Likes
+- Poetry
+### Behaviors
+Once upon a time there was a minipi
+That couldn't stop doing poetry
+Her words none could understand
+But for her sake they would pretend
+She was just walking around
+To her favorite hobby she was bound
+Strolling around, sharing her happiness
+Sharing joy for anyone to witness
+## 398
+### Likes
+- Podcasts
+### Behaviors
+- Have a podcast called pipipipi pipipi
+- Of course it's in minipi language 
+- Have a little headset so she can do it even when doing tasks around
+- Her main hobby is doing lot of various things and pipipi and them
+## 397
+### Likes
+- Safe haven
+### Behaviors
+- Made a place inside Pi's home that anyone is able to go, once they are there nobody is allowed to harm them or force them out
+- Her main hobby is ensuring these rules are followed and giving basic necessities of people inside
+- If someone attempt to break the rules, she will alert all minipis and they will all start pipipipi-ing in unisson, jumping on the intruder until they can't move anymore
+- Anyone is allowed to claim their right of asilum to any minipi, that will then bring them to this place
 ## 396
 ### Likes
 - Multiculturalism
