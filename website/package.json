@@ -2,9 +2,6 @@
   "scripts": {
     "build": "esbuild src/index.js --bundle --minify --sourcemap --outfile=js/index.js"
   },
-  "dependencies": {
-    "@egjs/grid": "^1.16.0"
-  },
   "devDependencies": {
     "esbuild": "^0.25.5"
   }

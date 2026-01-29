@@ -1,5 +1,3 @@
-import { MasonryGrid } from "@egjs/grid";
-
 function setup()
 {
     document.getElementById("modal-minipi-close").addEventListener("click", _ => {
@@ -25,12 +23,6 @@ function setup()
             document.getElementById("modal-specials").classList.add("is-active");
         });
     }
-
-    const grid = new MasonryGrid(document.getElementById("gallery-content"), {
-        gap: 5,
-    });
-
-    grid.renderItems();
 }
 
 document.onreadystatechange = async function () {

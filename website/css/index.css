@@ -30,3 +30,11 @@ ul {
 a {
     color: rgb(230, 71, 71);
 }
+
+#minipo {
+    width: 200px;
+}
+
+#gallery-content > img {
+    max-width: 750px;
+}
