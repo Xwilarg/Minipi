@@ -1,4 +1,377 @@
 ![[MiniPis-Image.png]]
+## 475
+### Likes
+- Speleology
+### Behaviors
+- Have for passion to find small caves and explore them
+- She sometimes will stay stuck there and will requires Pi to come save her
+- Is easily recognisable thanks to her frontal lamp
+- Will sometimes bring back some shiny rock she found back home
+## 474
+### Likes
+- People
+### Behaviors
+- Spend her time hanging with others, drinking tea with them, listening about their life
+- Because of that she now formed some deep friendship, some people even being able to understand some minipi words
+- Once she wake up, she usually just go to the local bakery to grab some things and then go see her friends
+- When she must be assigned to a task, she need to be told at least one week in advance so tell all the people she visits first
+## 473
+### Likes
+- Clipboards
+### Behaviors
+- Like to just spend time near people, wearing a clipboard and a pencil
+- Will sometimes scribble random doodles when she sees things especially inspiring
+- Is present in every meeting Nano have with Pi
+- Actually proven to increase the motivation of those around her by 5%
+## 472
+### Likes
+- Boutons
+### Behaviors
+- Like to pipipi around until she see a button and then she get a new goal: knowing at it does
+- Pi told her she now had to ask first before pressing random button, she will therefor stand next to it and look deeply within you until you allow her
+- And after all, why, why shouldn't see press that big red button
+## 471
+### Likes
+- Budgetting
+### Behaviors
+- When you do services for Nano you might get bonds instead which this minipi will remember
+- If you need to buy something you can instead go see her and tell her what you want, this will then go run to Pi to share the information
+- You can ask for more unusual things, but she will judge you along the way
+- Manage the "Minipi book of accounting" where Pi write down all people that did something for them and that weren't repaid
+## 470
+### Likes
+- Water
+### Behaviors
+- Her main hobby is finding water around, bringing it back home then drinking it
+- Since water have tendency to reduce her body temperature (and that minipi aren't really supposed to inject much), her body reject more bubbles through her exhaust pipe and she generally need to charge her battery more often
+- One of the rare minipi that is able to differentiate between two water brands
+- When she have too much water, she just bring some to people she find around instead
+## 469
+### Likes
+- Tiling
+### Behaviors
+- Her main occupation is working to make floors pretty and usable
+- Made the tiling that link Pi's house and the road
+- Since there are lot of people walking around, she is pretty much busy all the day everyday
+- A minipi living her passion at the fullest
+## 468
+### Likes
+- Potted plants
+### Behaviors
+- Go around and install potted plants in people house
+- During the day she go around, help people repot their plants and make sure they are all being watered
+- Also installed a bunch of them in Pi's house
+- Each day she choose one plant which she will take home, pipipipipi to for the evening before taking it to sleep to her charging pod
+## 467
+### Likes
+- Resources
+### Behaviors
+- Go around and look for anything that looks like it could be useful, wires, shiny rocks, or in general any other thing she can get for free
+- Store everything in Pi's basement
+- She often take one day per week to just stay home and reoganize the whole basement so it doesn't become too much of a mess
+## 466
+### Likes
+- Information
+### Behaviors
+- Created the minipi book of knowledge that store all minipi knowledge in written format
+- Since minipi don't have a unified writting system, only her can read it
+- She spends most of her time being available for minipis if they need specific knowledge
+- Once a minipi come home, she will ask what she learnt and append it to the book
+## 465
+### Likes
+- Warmth
+### Behaviors
+- Will come into your house, light up your chimney, bring blankets and make you a coffee
+- Installed a woodstove next to her charging pod
+- Wear around a big padded coat
+- Usually wake quite early so she can bring coffee to people that work during the night
+## 464
+### Likes
+- Pools
+### Behaviors
+- Want to have an inground swimming pool but on the meantime have an inflating one
+- Can't really swim but is very happy to just put her feet inside or floating on an inflatable buoy
+- On the start of the day, she will clean the pool and fill it, and spend the rest of the time there
+- She mostly only go out to clean other people's pool
+## 463
+### Likes
+- Closed doors
+### Behaviors
+- If she sees an open door, she will come to close it
+- Will follow people that seems to go toward a building to be sure they close behind them
+- The evening, ensure all of Pi's doors are closed before going to sleep
+- She is said to be able to hear door opening from 3 rooms away
+## 462
+### Likes
+- Water buckets
+### Behaviors
+- Carry a water bucket around
+- Always happy to be behind you when you need to mop something
+- When the bucket is empty, she will run away to find a place to refill it
+- If she don't find anything to do, she is plenty happy just walking around and giving water to stray dogs
+## 461
+### Likes
+- Finish line
+### Behaviors
+- Have a portable finish like that she can carry around
+- Will find a random place to put it at 大Batsu and wait to celebrate the first person that cross it
+- Also work at actual races to manage who is winning
+- The evening, she go home earlier to put the line at Pi's house and see the first person that come home
+## 460
+### Likes
+- Formal attires
+### Behaviors
+- Have a *beautiful* costume
+- Used when a "photo of a serious minipi" is needed
+- Like to spend time looking serious seriously with \#349
+- Her pipipi are *11%* more fancy
+## 459
+### Likes
+- Soundproof areas
+### Behaviors
+- Is working on soundproofing the minipi dormitories but as more and more minipi come the amount of work increase
+- When people are building new spaces she also help with insonorisation there
+- Her charging pod is super sound proof, which sometimes make it hard when she forget to wake up
+- Carry around a soundproof headset
+## 458
+### Likes
+- Things going faster
+### Behaviors
+- Minipis are nice, but what if they could go... faster
+- Is finding new days to do that, from attaching them to a skateboard to strapping them with a jetpack
+- New minipi regulation now ask that they must be wrapped on bubble wrap for the first try
+- Is really happy when it snows because she can esperiment with sledge-kind of devices
+## 457
+### Likes
+- Ladders
+### Behaviors
+- Noticed that a lot of minipis do activities that actually requires them to reach high places
+- Carry around a ladder so anytime a minipi need to go higher, she can do it without needing lot of others minipis
+- Her main hobby is just walking around to see if anyone might need your help
+- How many minipi do you need to change a lightbulb....
+## 456
+### Likes
+- Stacking things
+### Behaviors
+- Her main hobby is putting things on top of each others
+- If you give her some cinder blocks she will be very happy helping you making a wall
+- Pi bought her some little wooden block, she usually come home a bit earlier to play with them
+- She somehow became really good at it and quickly needs some others minipi to carry her to place more blocks
+## 455
+### Likes
+- Spying
+### Behaviors
+- Her main hobby is server Pi or Nano and bring them back information
+- They way of hiding is just being a mini that pretend knowing nothing
+- Since minipis know each others hobby they all just play along and pretend she is a normal minipi
+- When others ask for her hobby she just make up things on the spot and will pretend to do that for the day
+## 454
+### Likes
+- Questions
+### Behaviors
+- Will come at you and question everything you do
+- Have a big book of questions that summarize everything that was told to her
+- Can spend the whole day just bouncing on your explanations asking for more
+- Actually retained some very specific knowledge about very niche topics
+- The evening she is plenty happy asking questions to others minipis instead
+## 453
+### Likes
+- Decorations
+### Behaviors
+- Her main hobby is enhancing the look of anything she can
+- Make sure that Pi's house always stay beautiful 
+- Usually come with a bunch of minipi under her commands and gives all the instructions of what goes where
+- Also help minipis making decorations for their charging pods
+## 452
+### Likes
+- Moss
+### Behaviors
+- Like to adventure to the forest to sit next moss and pipipi at it
+- After lot of pipipi with minipis taking care of Pi's garden, finally managed to grow some moss there
+Each evening when she gets home she goes pipipi to it and tells it how the moss in the forest is doing
+- Not really willing to do tasks but is plenty happy speaking about moss to you
+## 451
+### Likes
+- Backpack
+### Behaviors
+- Carry a big backpack full of all utilities you could think of
+- If you need something she doesn't have, you can be sure she will have it inside the next day
+- Generally is just happy to walk around with her backpack full
+- An overall very useful minipi to have around
+## 450
+### Likes
+- Words
+### Behaviors
+- Decided to learn all the words 大Batsu language has
+- Because of how she store them in her memory she tends to mix the ones that look similar
+- On her free time she go to the sea, expecting to see a tiramisu among the waves
+- Will be able to follow super technical sentence but will be confused when you ask where the butter is
+## 449
+### Likes
+- Hair color
+### Behaviors
+- Bought colorant to put in others minipi hair so everyone can wear their favorite color
+- The hardest part after that is mixing the colorant with the hair so it get uniform
+- When she has free time, she will sometimes train on cakes instead on how to mix the right colors
+- Don't understand why Nano don't want to put some in his hair
+## 448
+### Likes
+- Microwave defense
+### Behaviors
+- Spend most of her time near Pi's microwave, looking at who wants to use it
+- Is very good at manipulating a fire extinguisher
+- If someone other than a minipi want to microwave something she is the one that will take care of it
+- When there is nothing to do she also help cleaning the house or pipipi with the minipis that are there
+## 447
+### Likes
+- Melted snow
+### Behaviors
+- Is really happy when it snows but not for the same reasons as \#445
+- When it doesn't she is happy helping people defreezing their freezer
+- Afterward she will just sit and slowly watch the snow melt or if it's too cold, bring some kind of heating device
+- Is no longer allowed to use the microwave
+## 446
+### Likes
+- Medicine
+### Behaviors
+- Hold a little pharmacy next to Pi's house with some basic medicine
+- Have the formation to also inject vaccines if you need one
+- Usually spend her whole day there and ask some minipis to bring her supplies when she runs out
+- Is somehow able to read doctor writings
+## 445
+### Likes
+- Removing snow
+### Behaviors
+- Usually stay home most of the year, cleaning her tools and sometimes helping others minipis
+- When snow comes, she takes out her shovel and organizes the minipi strike force
+- She then spend all her time clearing the various roads in 大Batsu
+- Sometimes need help when she fall in some deep snow and can't go back up by herself
+## 444
+### Likes
+- Things being the same
+### Behaviors
+- Ensure her environment is always the same, move back chairs at their original place, always go to the same places, etc
+- If you do something new in front of her she will run away
+- Is usually only given maintenance tasks
+- The only changes she accepts are new minipi being bornt and pipipi-ing around
+## 443
+### Likes
+- Judging
+### Behaviors
+- Carry with her cardboards that go between 1 and 10
+- Go around looking for someone doing something, observe and give a mark afterward by raising the cardboard above her head
+- Most usually give marks between 6 and 9
+- If she gives a 10, she will pipipi while running in all directions, attracting others minipis nearby to join to do the same
+## 442
+### Likes
+- Washing windows
+### Behaviors
+- Always carry around a sponge and window soap
+- Will come ring at your door to wash your windows, if you're not here she will just do it from the outside
+- The evening she make sure that Pi's windows are spotless
+- Have suction cups on her shoes to reach high windows
+## 441
+### Likes
+- Crushing things
+### Behaviors
+- Convinced Pi to buy a crusher
+- Now mainly work at helping crushing objects that are too big
+- When she has nothing to do she will go around to find a big rock to crush instead
+- Have a little key so only her can activate the crusher
+## 440
+### Likes
+- Special effects
+### Behaviors
+- Always carry a small pouch of fake blood in case someone finger-gun her
+- Painted the wall behind her charging pod green, the rest will come in post-prod
+- Can install a fake explosion to your wedding if you want it to be more memorable
+- Will be very happy if you play along with all her antics
+## 439
+### Likes
+- Bingo
+### Behaviors
+- Each day, randomize herself a small bingo board with random objectives she has to do
+- Will spend her day trying to do them so she can have a full line/column/diagonal
+- Once she has everything will pipipi of joy then go home to create more objectives
+## 438
+### Likes
+- Laser pointers
+### Behaviors
+- Always carry a laser pointer with her pointing in front of her
+- If you hold another one in front of her toward another direction, there is 50% chance she will follow it instead
+- If the laser end up on a wall she will pipipi so you help her climb it
+- Had a lot of fights with cats
+## 437
+### Likes
+- Things happening
+### Behaviors
+- Like anything that is "happening"
+- Will pipipipi so you follow her to show you a leaf falling from a tree
+- Sometimes will just stop in place to consider how amazing it is that she is happening in that world too
+- Overall a very easy minipi to excites
+## 436
+### Likes
+- Noises
+### Behaviors
+- Walk around following noises she hears
+- If you shout she will come running toward you
+- Doesn't pipipi much herself as she prefers listening to everything instead
+- If there is a big group of minipis she is probably in the middle
+## 435
+### Likes
+- Walking behind
+### Behaviors
+- When she wakes up, she go around to find some people to follow
+- Will ensure that the whole group is always in front of her
+- Once the end of afternoon come, she will start to look for a group that go toward Pi's house
+- Always the last one to close a minipi march
+## 434
+### Likes
+- Schedules
+### Behaviors
+- Carry a small watch that does a small "ding" each hour along with a small notepad that contains her schedule for each hour
+- After speaking with her syndicate, she now refuse to do any additional work after 6pm
+- Will always wake up at exactly 6am and sleep at exactly 9pm
+- The evening is use a few hours to carefully handcraft her next day schedule
+## 433
+### Likes
+- Growing seeds
+### Behaviors
+- Will wait next to you everytimes you eat a fruit so she can get the seeds afterward 
+- Have a small room in Pi house where she make them germs
+- Speak to each of them each day so they can grow big and strong
+- Once they are big enough, she will plant them next to 大Batsu forest to expend it
+## 432
+### Likes
+- Things being up to date
+### Behaviors
+- Will sneak into your computer to update all softwares
+- Is not responsible for everything that might break due to that
+- Everytimes minipi have a software update available, she will gather all others minipis so they hurry to do it
+- Zirk once told her that Theta and Alpha were the most "out of date" android, since then she keep going to them to tell them to update themselves
+## 431
+### Likes
+- Gifts
+### Behaviors
+- Have a small notebook where she writes what everyone like
+- Once she finds something someone would like, she runs home to wrap it so she can give it the next day
+- Because of the amount of minipis pretty much anything she finds can actually make for a good gift
+## 430
+### Likes
+- Strategy
+###  Behaviors
+- Will patiently wait for you to have a complex problem to solve
+- Always have a bunch of map ready, along with handcrafted little minipi figurine to explain her point
+- If a group of minipi doesn't work, throw in more minipis
+- Outside of strategizing, spend time building more minipis figuring for more bigger scale strategies
+## 429
+### Likes
+- Being thrown
+### Behaviors
+- Carry an armor made of two cushions strapped with rubber band
+- Will go toward you and be expected to be thrown
+- Please help her if you find her stuck in a tree
+- Is hoping that one day \#67 will finish her construction
 ## 428
 ### Likes
 - Adventures
