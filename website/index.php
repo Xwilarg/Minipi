@@ -5,6 +5,10 @@ require_once "vendor/autoload.php";
 use Twig\Loader\FilesystemLoader;
 use Twig\Environment;
 
+ini_set('display_errors', '1');
+ini_set('display_startup_errors', '1');
+error_reporting(E_ALL);
+
 $loader = new FilesystemLoader(["templates", "templates/articles"]);
 $twig = new Environment($loader);
 
