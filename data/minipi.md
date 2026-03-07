@@ -1,4 +1,191 @@
-![[MiniPis-Image.png]]
+## 499
+### Likes
+- Finding things
+### Behaviors
+- Is the perfect minipi if you lost something
+- If she don't find anyone to give her tasks, she will try to look for rare specific things, like 4-leaves clovers for example
+- Is still trying to find the pot of gold at the base of the rainbow
+- Like to look for what minipi \#60 hidded
+## 498
+### Likes
+- Drawers
+### Behaviors
+- Bought a few drawers and store minipi items that doesn't fit in their charging pod
+- Each day, she moves minipis belonging to another drawer to clean the one that ends up empty
+- She also enjoy walking around furnitures stores to see what kind of new drawers they are
+- Is able to differenciate good drawers from bad drawers
+## 497
+### Likes
+- Memories
+### Behaviors
+- Go to people and ask them about memorable moments of their life
+- Will then write it in her book and come back a few years after, reminding them of their past
+- Store her book in the minipi library with a small sticker "do not read"
+    - Since there is no unified minipi writing language, nobody is able to read it anyway
+## 496
+### Likes
+- New experiences
+### Behaviors
+- Like people experiencing new things
+- Once she find a new activity she will go speak to Pi, Nano and all minipis
+- Have sometimes to be reminded to not do anything too dangerous
+- Once she get a bad experience, she purges it from her memory and is then ready to do it again
+## 495
+### Likes
+- Censorship
+### Behaviors
+- Defines a list of media that is not safe for minipi reading
+- While this is not an official list, others minipis accept it as a hobby and thus don't go against it
+- Have a special safe in Pi's library to store minipi writing that are not very acceptable
+- Carry around black tape to hide what shouldn't be seen
+## 494
+### Likes
+- Crushing things
+### Behaviors
+- Own a mortal and a pestle
+- Most of the time work as a cook or as medicine preparation
+- Is also plenty happy to crunch anything you find
+- Installed a crusher in Pi's garden in case you give her something too solid
+## 493
+### Likes
+- Observating
+### Behaviors
+- Like to sit somewhere and just... look
+- If you speak to her she will pipipi away to sit back a few dozens meters away
+- Often stay on roofs and such to have a better vantage point
+## 492
+### Likes
+- Ebereus good imports
+### Behaviors
+- Is the minipi you should go speak to if you want to get some goods from Ebereus
+- Once enough people asked for things, she will go pipipipi to Nano so he agree to get them
+- Then keep track of anything that was imported and do reports that are stored in the minipi library
+- If someone new arrives to 大Batsu, she will come check if they didn't import anything bad
+## 491
+### Likes
+- Underwater
+### Behaviors
+- Saved money to buy a diver suit so she can explore underwater
+- Her main hobby is going there, seeing the animals and alguas
+- Is often assigned to task that requires to go there such as reparing maritime infrastructures
+- Please don't touch plants underwater, it's bad for them
+## 490
+### Likes
+- Simple things
+### Behaviors
+- Still uses a old charging-pod model that she refuses to update
+- When assigned to a task, she usually don't want to hear what it is about and just be assigned a specific job
+- She don't really have much others hobbies and simply enjoy being assigned tasks or working for the community
+## 489
+### Likes
+- Wings
+### Behaviors
+- No, not the birds ones, the buildings ones
+- This new house is looking great... what if we were to add an extension to the left?
+- Negociated with Pi to build the "minipi wing" in her house, where minipi utilities would be
+- Is not really interested by any other kind of construction
+## 488
+### Likes
+- Minipi transport
+### Behaviors
+- Minipi have to go all over 大Batsu at the start of the day, which can often be a mess for public transportations
+- Organize which minipis will leave together, will make them leave at differences times so they don't flood transportations, etc...
+- Much of her work is the evening once minipi go home, mainly knowing what does what the next day so she can organize the upcoming evening
+- The day she keep up to date with various transportations around, roadwork and stuff to ensure minipi don't meet any problem
+## 487
+### Likes
+- Things being on time
+### Behaviors
+- Wear a watch to be sure that everything is on time
+- Also carry a second watch in case the first one runs out of battery
+- When something is time scheduled, she will ensure that it's done exactly on time
+- Being early is not being on time
+- Is not happy with minipi productions not being very on time these days
+## 486
+### Likes
+- Fanions
+### Behaviors
+- Split minipis between categories, if they are assigned to a task, if they work for the MPDS, etc...
+- Handcraft them little fanions that they then hang to themselves
+- Once a new system exists, she will think of what design the fanion will be
+- When she has free time she usually find minipis needing help and join them, herself proudly wearing a fanion
+## 485
+### Likes
+- Protections
+### Behaviors
+- Look at what tasks minipis have and find them appropriate equipement
+- Also do formations to explain them the use of equipment, the danger of water and taking hits, etc...
+- When she is free, she usually go around and check that all minipis are wearing what they should
+- Always wear a helmet
+## 484
+### Likes
+- Microphone
+### Behaviors
+- A really useful minipi to have for parties
+- With the growing amount of minipi, is also used within Pi's house to give global orders
+- Will come to you and ask you to speak in her mic
+- Please don't tap the microphone
+## 483
+### Likes
+- Patterns
+### Behaviors
+- Her main activity is walking around, until she identify a fixed pattern that she will then start to follow
+- Often move slightly things in Pi's house so they fit each others position a bit more
+- Will sometimes piiiii out of nowhere when she notice a pattern she previously didn't see
+- If you are able to draw shapes on a paper, she will stay with you the whole day, waiting expectently
+## 482
+### Likes
+- Mechanic
+### Behaviors
+- Like to repair and maintain cars
+- Her small size make her especially useful to go under the car
+- Always carry her tools around
+- If you're planning to go on a roadtrip, she will be happy to join and take care of the car maintenance
+## 481
+### Likes
+- Tutorials
+### Behaviors
+- Will come to explain you how to use your tutorial or dishwasher
+- Will patiently go over all functions and expect you to click on them one by one
+- You can "skip" the tutorial by just ignoring the minipi... but that wouldn't be nice
+## 480
+### Likes
+- Soapbox cars
+### Behaviors
+- Made herself a little car without an engine
+- Her main hobby is finding great slopes and sliding on them
+- Then come her 2nd main hobby: repairing the car
+- The car actually have soap inside
+## 479
+### Likes
+- Names
+### Behaviors
+- Hold the minipi book of name which she uses as an extend of her storage to remember what everyone is called
+- Once she meet someone new, she will ask their name and put it inside
+- Is most likely able to tell you where your name is from and what are the roots of it
+- Named herself "pipipi"
+## 478
+### Likes
+- Pulsions
+### Behaviors
+- Don't have anything she particuliary love, but enjoy instead doing things out of impulses
+- She might stop while mid-task, just to go do something totally unrelated instead
+- Always is seen with different things in hand, depending what is find around or is in mood of
+## 477
+### Likes
+- Rhythm
+### Behaviors
+- Carry around drum sticks
+- Usually just walk with others minipis, carefully walking on the same rhythm as them
+- Once the others minipis stop to do another activity, she will just wait on the side, hitting random objects with her sticks in rhythm
+- Is able to pipipi at exactly 100bpm constantly
+## 476
+### Likes
+- Alchemy
+### Behaviors
+- Have a big cauldron in Pi's house and spend her day outside to find new ingredients to put inside
+- Once she is satisfied with her mixture she will mix it and bottle it, before offering it to someone random
+- Please don't drink it
 ## 475
 ### Likes
 - Speleology
