@@ -1,3 +1,15 @@
+## 500
+Mel
+### Likes
+- Colors
+### Behaviors
+- Dislikes the fact that all minipis are yellow.
+- After spying on Gamma in the castle learnt how to make dyes from fruits, bugs and other things.
+- Will change her slime color and do a poorly done paint job on her body on a daily basis.
+- Cannot be the same color more than twice in a row.
+- One day it learnt color mixing and shut down from overthinking all the color possibilities she could have.
+- Always has a distinct smell that changes often due to her color DIY dyes
+- Often leaves footmarks of paint in the floor.
 ## 499
 ### Likes
 - Finding things
