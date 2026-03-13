@@ -31,8 +31,8 @@ a {
     color: rgb(230, 71, 71);
 }
 
-#minipo {
-    width: 200px;
+.illustration {
+    max-width: 500px;
 }
 
 #gallery-content > img {
